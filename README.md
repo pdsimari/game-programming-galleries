@@ -4,7 +4,7 @@ The games below were developed by groups of students during the course EN.601.25
 
 ## Spring 2025
 
-**Engine:** [Unity 2023.2.4f1 (Dec 22, 2023)](unityhub://2023.2.4f1/3a7eb0602d92)
+**Engine:** [Unity 2023.2.4f1 (Dec 22, 2023)](https://unity.com/releases/editor/whats-new/2023.2.4)
 
 * [Cleaner Robot Simulator](https://github.com/TianyouLiuSky/Game_programming_project)
 * [Dead Line (Infection)](https://github.com/Stellahhh/Infection)
