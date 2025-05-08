@@ -7,11 +7,13 @@ The games below were developed by groups of students during the course EN.601.25
 **Engine:** [Unity 2023.2.4f1 (Dec 22, 2023)](https://unity.com/releases/editor/whats-new/2023.2.4)
 
 * [Cleaner Robot Simulator](https://github.com/TianyouLiuSky/Game_programming_project)
-* [Dead Line (Infection)](https://github.com/Stellahhh/Infection)
+* [Dead Line](https://github.com/Stellahhh/Infection)
 * [Grounds for Catastrophe](https://github.com/Kalia2538/ComputerGaming2025)
 * [Mission Ingenuity](https://github.com/JohnnieShen/cs257-Project-Ingenuity)
 * [Skyhook](https://github.com/tommyli03/GameDesignFinalProject)
 * [Tower of the Betrayer](https://github.com/JJJcfff/GameDesign)
+
+[Game jam on itch.io](https://itch.io/jam/spring-2025-final-projects)
 
 ## Fall 2024
 
