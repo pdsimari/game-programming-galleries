@@ -21,7 +21,7 @@ The games below were developed by groups of students during the course EN.601.25
 
 * [Backside of the Moon](https://github.com/ZichenFrankFu/Backside_of_the_Moon.git)
 * [Business Monkey](https://github.com/TobBot2/BusinessMonkey)
-* [Crick Crack the Kraken's Back!](https://github.com/aeldelaney/crick-crack-the-krakens-back)
+* [Crick Crack, the Kraken's Back!](https://github.com/aeldelaney/crick-crack-the-krakens-back)
 * [JHU Squirrel](https://github.com/annaaaddddd/jhusquirrel)
 * [Mutiny](https://github.com/BobTheHobo/bestestGame.git)
 * [Perpetuality](https://github.com/ImHungry48/GameProgrammingProject)
