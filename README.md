@@ -2,6 +2,17 @@
 
 The games below were developed by groups of students during the course EN.601.257: "Computer Graphics and 3D Game Programming" offered by the Computer Science department of Johns Hopkins University.
 
+
+## Fall 2025
+
+**Engine:** [Unity 2023.2.4f1 (Dec 22, 2023)](https://unity.com/releases/editor/whats-new/2023.2.4)
+
+* [Evershore](https://github.com/Nhousen1/Evershore-CG3DGP-Project)
+* [Farm Tower TD Defense](https://github.com/lmalmud/601.257)
+* [Planet Six](https://github.com/cwang225/CG3GPMAC)
+* [Shepard of Dreams](https://github.com/Benjamin-Albeyta/CG3DGP-Fall-2025-SQ-CJ-BA)
+
+
 ## Spring 2025
 
 **Engine:** [Unity 2023.2.4f1 (Dec 22, 2023)](https://unity.com/releases/editor/whats-new/2023.2.4)
