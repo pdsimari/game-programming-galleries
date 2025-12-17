@@ -12,6 +12,7 @@ The games below were developed by groups of students during the course EN.601.25
 * [Planet Six](https://github.com/cwang225/CG3GPMAC)
 * [Shepard of Dreams](https://github.com/Benjamin-Albeyta/CG3DGP-Fall-2025-SQ-CJ-BA)
 
+[Game jam on itch.io](https://itch.io/jam/fall-2025-final-projects)
 
 ## Spring 2025
 
