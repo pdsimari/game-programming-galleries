@@ -2,6 +2,13 @@
 
 The games below were developed by groups of students during the course EN.601.257: "Computer Graphics and 3D Game Programming" offered by the Computer Science department of Johns Hopkins University.
 
+## Fall 2026
+
+**Engine:** [Unity 2023.2.4f1 (Dec 22, 2023)](https://unity.com/releases/editor/whats-new/2023.2.4)
+
+* [Last Night](https://github.com/JoshR011/Last-Light)
+* [Killswitch: The Dawn of AI](https://github.com/echang33/ET_Island)
+* [Get Out](https://github.com/eliseli0926/CG3GP_group_project)
 
 ## Fall 2025
 
